@@ -1,5 +1,3 @@
-# cfd-case-study-wing
-
 # Mini-projet CFD — Démonstration
 
 Ce dépôt contient un mini-projet CFD pour démonstration, illustrant les notions de base de la mécanique des fluides et de l’aérodynamique.
